@@ -1,0 +1,4 @@
+#Sat Apr 25 16:56:19 GMT 2020
+base.0=/Users/madoxdevmobile/Documents/Flutter/Projects/madox_tech/orderdelivery/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
